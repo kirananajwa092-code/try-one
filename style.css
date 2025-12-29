@@ -17,7 +17,7 @@ body {
     margin-top: 20px;
     padding: 12px 25px;
     background-color: white;
-    color: #6a5acd;
+    color: #8d7646;
     text-decoration: none;
     border-radius: 25px;
     font-weight: bold;
@@ -42,7 +42,7 @@ section {
 }
 
 .card {
-    background-color: #6a5acd;
+    background-color: #cdac5a;
     color: white;
     padding: 15px 25px;
     border-radius: 10px;
@@ -57,4 +57,4 @@ section {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #ddd;
+    background-color: #e2c860;
