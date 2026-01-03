@@ -1,0 +1,31 @@
+.hero {
+  background-color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px;
+  gap: 20px;
+}
+.hero-text h1 {
+  font-size: 48px;
+  font-style: italic;
+  opacity: 0.8;
+  margin: 0;
+}
+.hero-image img {
+  width: 280px;
+  border-radius: 20px;
+  box-shadow: o 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 8px;
+  opacity: 0.8;
+}
+p {
+  margin: 0 80px 20px;
+  line-height: 1;
+}
