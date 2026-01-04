@@ -14,8 +14,12 @@
 }
 .hero-image img {
   width: 280px;
-  border-radius: 20px;
-  box-shadow: o 10px 25px rgba(0, 0, 0, 0.15);
+  height: auto;
+  display: block;
+  opacity: 100%;
+}
+.hero-image{
+  min-width: 300px;
 }
 
 .hero-text h2 {
