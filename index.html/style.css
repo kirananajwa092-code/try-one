@@ -1,5 +1,5 @@
 .hero {
-  background-color: var(--primary);
+  background-color: var(#f1dddd);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -8,7 +8,7 @@
 }
 .hero-text h1 {
   font-size: 48px;
-  font-style: italic;
+  font-style: arial;
   opacity: 0.8;
   margin: 0;
 }
@@ -174,4 +174,16 @@
   font-weight: 500;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
   transition: all 0.3s;
+}
+.contact{
+  text-align: center;
+  margin-top: 120px;
+}
+.contact form {
+  max-width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+.contact form input {
+  width: 100%;
 }
